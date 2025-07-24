@@ -1,7 +1,5 @@
 streamlit
-tensorflow
-keras
-opencv-python
-Pillow
-numpy
+tensorflow==2.19.0
 gdown
+pillow
+numpy
