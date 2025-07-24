@@ -1,10 +1,8 @@
 streamlit
 tensorflow
-keras
 gdown
 numpy
 Pillow
-opencv-python
 matplotlib
 pandas
 scikit-learn
