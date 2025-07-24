@@ -1,8 +1,7 @@
 streamlit
 tensorflow
-gdown
-numpy
+keras
+opencv-python
 Pillow
-matplotlib
-pandas
-scikit-learn
+numpy
+gdown
